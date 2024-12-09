@@ -5,4 +5,4 @@
  * @author dominiksitny
  *
  */
-package AdventOdCode.year24.day01;
+package AdventOfCode.year24.day01;
